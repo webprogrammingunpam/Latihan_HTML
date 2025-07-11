@@ -13,9 +13,13 @@
 ![Mumu](Latihan6.png)
 ## 6. Latihan List
 ![Mumu](Latihan7.png)
-## 7. Latihan Hyperlink
+## 7. Latihan Hyperlink & Lajutan halaman8 Hyperlink
 ![Mumu](Latihan8.png)
-## 7. Lajutan halaman8 Hyperlink
+## 8. Latihan image
 ![Mumu](Latihan9.png)
-## 7. Latihan image
+## 9. Latihan Table
 ![Mumu](Latihan10.png)
+## 10. Latihan11 Table margin
+![Mumu](Latihan11.png)
+## 11. Latihan12 from
+![Mumu](Latihan12.png)
