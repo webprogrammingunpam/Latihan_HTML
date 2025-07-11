@@ -13,3 +13,9 @@
 ![Mumu](Latihan6.png)
 ## 6. Latihan List
 ![Mumu](Latihan7.png)
+## 7. Latihan Hyperlink
+![Mumu](Latihan8.png)
+## 7. Lajutan halaman8 Hyperlink
+![Mumu](Latihan9.png)
+## 7. Latihan image
+![Mumu](Latihan10.png)
