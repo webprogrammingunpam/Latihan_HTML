@@ -23,3 +23,5 @@
 ![Mumu](Latihan11.png)
 ## 11. Latihan12 from
 ![Mumu](Latihan12.png)
+## 12. Latihan13 from lanjutan
+![Mumu](Latihan13.png)
